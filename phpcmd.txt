@@ -1,0 +1,2 @@
+//´´½¨¿ØÖÆÆ÷
+php artisan make:controller /Home/UserController
